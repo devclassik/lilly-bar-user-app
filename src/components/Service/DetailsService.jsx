@@ -21,10 +21,10 @@ function DetailsService() {
                                             <i className="fal fa-user-friends"></i>20-30 Employees
                                         </li>
                                         <li>
-                                            <i className="fal fa-bookmark"></i>Appie Template
+                                            <i className="fal fa-bookmark"></i>VCCA
                                         </li>
                                         <li>
-                                            <i className="fal fa-globe"></i>quomodosoft.com/appie
+                                            <i className="fal fa-globe"></i>vcca.com/app
                                         </li>
                                     </ul>
                                 </div>

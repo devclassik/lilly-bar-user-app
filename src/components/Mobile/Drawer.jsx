@@ -32,7 +32,11 @@ function Drawer({ drawer, action, lang }) {
                   </a>
                 </div>
                 <div className="offcanvas-brand text-center mb-40">
-                  <img src={logo} alt="" style={{height: '80px', borderRadius: '10px'}}/>
+                  <img
+                    src={logo}
+                    alt=""
+                    style={{ height: "80px", borderRadius: "10px" }}
+                  />
                 </div>
                 <div id="menu" className="text-left ">
                   <ul className="offcanvas_main_menu">

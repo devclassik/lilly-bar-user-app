@@ -15,10 +15,10 @@ function Contact() {
             <Drawer drawer={drawer} action={drawerAction.toggle} />
             <HeaderNews drawer={drawer} action={drawerAction.toggle} />
             <HeroNews
-                title="Blogs"
+                title="Contact us"
                 breadcrumb={[
                     { link: '/', title: 'home' },
-                    { link: '/news', title: 'Blogs' },
+                    { link: '/news', title: 'Contact us' },
                 ]}
             />
             <Forms />

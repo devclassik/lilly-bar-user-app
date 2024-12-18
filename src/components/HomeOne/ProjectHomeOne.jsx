@@ -17,7 +17,7 @@ function ProjectHomeOne({ className }) {
                                     <div className="col-lg-6">
                                         <div className="appie-project-content">
                                             <h3 className="title">
-                                                Start your project with appie.
+                                                Start your project with VCCA.
                                             </h3>
                                             <p>We will email you only about this product.</p>
                                             <form action="#">
